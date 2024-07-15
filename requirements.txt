@@ -11,3 +11,4 @@ requests==0.14.2
 w3lib==1.2
 wsgiref==0.1.2
 zope.interface==4.0.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
